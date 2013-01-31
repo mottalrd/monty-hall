@@ -1,4 +1,4 @@
-# Monty Hall problem in Ruby
+# The Monty Hall problem in Ruby
 
 The [Monty Hall Problem](https://en.wikipedia.org/wiki/Monty_Hall_problem) is an illustration of how probability
 can be completely and utterly counterintuitive. I've had a thousand arguments about this, so I decided to write
